@@ -4,8 +4,10 @@ using System.Text;
 
 namespace CarLotSimulator
 {
-    internal class Car
+    public class Car
     {
+        
+
         public string Make { get; set; }
         public string Model { get; set; }
         public int Year { get; set; }
@@ -23,6 +25,7 @@ namespace CarLotSimulator
         {
             Console.WriteLine(honkNoise);
         }
+
 
 
     }

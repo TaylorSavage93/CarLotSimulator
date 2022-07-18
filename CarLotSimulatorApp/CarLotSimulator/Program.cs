@@ -5,7 +5,9 @@ using System.Text;
 namespace CarLotSimulator
 {
     class Program
+
     {
+
         static void Main(string[] args)
         {
             //TODO
